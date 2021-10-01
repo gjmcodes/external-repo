@@ -1,6 +1,7 @@
 
 **ARQUIVO EDITADO**
 **NOVO EDIT**
+**NOVO EDIT FROM GITHUB**
 
 **Edit a file, create a new file, and clone from Bitbucket in under 2 minutes**
 
